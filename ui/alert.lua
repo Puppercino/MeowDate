@@ -5,6 +5,12 @@
     It will animate in and out of the screen.
     It will also play a sound when it appears.
 
+    You need to import the following CoreLibs to use this class:
+    - CoreLibs/object
+    - CoreLibs/graphics
+    - CoreLibs/animator
+    - CoreLibs/timer 
+
     @version 1.0
 
     Copyright (C) 2024 Meowcino, licensed under MIT.
